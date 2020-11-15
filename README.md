@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+This project is referenced here.
+https://github.com/mercihohmann
+
+and I modify searching position and displaying 7days widgets by listview
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
